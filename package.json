@@ -5,7 +5,6 @@
   "scripts": {
     "dev": "wp-pwa dev",
     "start": "wp-pwa dev",
-    "preview": "wp-pwa preview",
-    "build": "wp-pwa build"
+    "preview": "wp-pwa pre FinalExam"
   }
 }
